@@ -1,0 +1,25 @@
+/* Add this in App.css or a separate CSS file */
+.login-container {
+  background: black;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.login-container input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.login-container button {
+  padding: 10px 20px;
+  background: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

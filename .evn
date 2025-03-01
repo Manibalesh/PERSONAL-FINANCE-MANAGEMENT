@@ -1,0 +1,5 @@
+REACT_APP_API_KEY=your_frontend_api_key
+REACT_APP_API_URL=http://localhost:5000/api
+
+const apiKey = process.env.REACT_APP_API_KEY;
+console.log('API Key:', apiKey);
